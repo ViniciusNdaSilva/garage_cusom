@@ -8850,8 +8850,23 @@ body {
 }
 
 .gradient-background {
-  background: linear-gradient(to bottom, #ffcccc, #ff9999);
+  background-image: url(/images/Oh9fAwsdIbxP.jpg);
   color: white;
   padding: 100px 0;
   text-align: center;
+  background-size: cover;
+}
+
+.btn-red {
+  background-color: #ff0000;
+  border-color: #ff0000;
+  color: white;
+  margin-top: 20px;
+}
+
+.products-section h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  line-height: 30px;
+  margin-bottom: 15px;
 }
