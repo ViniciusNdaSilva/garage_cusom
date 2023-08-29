@@ -8845,6 +8845,10 @@ body {
   margin: 0 40px;
 }
 
+.segunda-parte {
+  padding: 5px;
+}
+
 .content > p > .email-link {
   text-decoration: none;
 }
@@ -8869,4 +8873,27 @@ body {
   font-weight: 700;
   line-height: 30px;
   margin-bottom: 15px;
+}
+
+.gradient-background-product {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(/images/Oh9fAwsdIbxP.jpg);
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+  background-size: cover;
+  height: 46vh;
+}
+
+.imgebutton {
+  background-color: black;
+  height: 70px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.product-header {
+  background-color: #0f0f0e;
 }
