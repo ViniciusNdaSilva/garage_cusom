@@ -8848,3 +8848,10 @@ body {
 .content > p > .email-link {
   text-decoration: none;
 }
+
+.gradient-background {
+  background: linear-gradient(to bottom, #ffcccc, #ff9999);
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
