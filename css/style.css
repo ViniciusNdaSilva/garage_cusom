@@ -323,7 +323,7 @@ input:-webkit-autofill:focus {
 
 .efeito-marquee {
   --space: 3rem;
-  min-height: 100vh;
+  min-height: 10vh;
   display: grid;
   align-content: center;
   overflow: hidden;
