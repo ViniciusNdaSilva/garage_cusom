@@ -331,6 +331,7 @@ input:-webkit-autofill:focus {
   width: 100%;
   font-size: 1.5rem;
   line-height: 1.5;
+  background-color: #fff;
 }
 .marquee {
   --duration: 10s;
@@ -8741,7 +8742,7 @@ body.boxed {
   height: 100%;
 }
 body section {
-  background: #fff;
+  background: #f6f6f6;
 }
 .main-header.stricky-fixed.static {
   position: relative;
