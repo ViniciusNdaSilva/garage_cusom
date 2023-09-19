@@ -1396,8 +1396,8 @@ input:-webkit-autofill:focus {
 */
 
 .wheel-work-area {
-  background: rgba(0, 0, 0, 0) url("../images/Oh9fAwsdIbxP.jpg") no-repeat
-    scroll center center / cover;
+  background: rgba(0, 0, 0, 0) url("../images/backgr.jpg") no-repeat scroll
+    center center / cover;
   padding-top: 87px;
 }
 
@@ -8935,7 +8935,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(/images/Oh9fAwsdIbxP.jpg);
+  background-image: url("/images/backgr.jpg");
   color: white;
   padding: 100px 0;
   text-align: center;
